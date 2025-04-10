@@ -62,7 +62,7 @@ body {
   flex-direction: column;
   gap: 16px;
   border-radius: 8px;
-  box-shadow: 32px 64px 16px rgba(206.55, 206.55, 206.55, 0.5);
+  box-shadow: 48px 64px 48px rgb(206.55, 206.55, 206.55);
 }
 .testimonial__title {
   letter-spacing: -0.4px;

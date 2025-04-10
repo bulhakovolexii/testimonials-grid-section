@@ -58,7 +58,7 @@ body {
   flex-direction: column;
   gap: $spacing-200;
   border-radius: 8px;
-  box-shadow: 32px 64px 16px rgba($color: $grey-200, $alpha: 0.5);
+  box-shadow: 48px 64px 48px rgba($color: $grey-200, $alpha: 1);
 
   &__title {
     letter-spacing: -0.4px;
